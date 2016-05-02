@@ -3,6 +3,12 @@
   "WebJobs": [
     {
       "filePath": "../EmailSender/EmailSender.csproj"
+    },
+    {
+      "filePath": "../DigestProcessor/DigestProcessor.csproj"
+    },
+    {
+      "filePath": "../DigestTrigger/DigestTrigger.csproj"
     }
   ]
 }
